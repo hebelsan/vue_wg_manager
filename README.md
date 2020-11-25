@@ -1,4 +1,4 @@
-# urlaub-app
+# wg organizer
 
 ## Project setup
 ```
